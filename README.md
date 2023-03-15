@@ -18,7 +18,7 @@ This project was built using these technologies.
 
 - React.js
 - Javascript
-- CSS3
+- Css3
 - VsCode
 - Vercel
 
