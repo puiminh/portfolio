@@ -1,11 +1,5 @@
-<h2 align="center">
-  Portfolio-Website (React.Js) <br/>
-</h2>
-<div align="center">
-  <img alt="Demo" src="/home.png" />
-</div>
+![image](https://user-images.githubusercontent.com/86037720/230874771-c8f48d0e-a0c0-42a8-84c9-4d711baa3f77.png)
 
-<br/>
 
 Responsive Portfolio Website Design Using React.Js CSS &amp; HTML
 
