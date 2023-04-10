@@ -5,11 +5,11 @@ export const SkillsData = [
       {
         name: "ReactJS",
         icon: <i class="devicon-react-original colored"></i>
-        },
+      },
       {
-        name: "HTML5",
-        icon: <i class="devicon-html5-plain colored"></i>
-        },
+        name: "VueJS",
+        icon: <i class="devicon-vuejs-plain colored"></i>
+      },
       {
         name: "JavaScript",
         icon: <i class="devicon-javascript-plain colored"></i>
@@ -18,22 +18,34 @@ export const SkillsData = [
         name: "TailwindCSS",
         icon: <i class="devicon-tailwindcss-plain colored"></i>
       },
-    ],
-  },
-  {
-    type: "Other Skills",
-    list: [
-      {
-        name: "Firebase",
-        icon: <i class="devicon-firebase-plain colored"></i>
-      },
       {
         name: "Bootstrap",
         icon: <i class="devicon-bootstrap-plain colored"></i>
       },
+    ],
+  },
+  {
+    type: "Backend",
+    list: [
       {
-        name: "Azure",
-        icon: <i class="devicon-azure-plain colored"></i>
+        name: "Laravel",
+        icon: <i class="devicon-laravel-plain colored"></i>
+      },
+      {
+        name: "Spring",
+        icon: <i class="devicon-spring-plain colored"></i>
+      },
+      {
+        name: "NodeJS",
+        icon: <i class="devicon-nodejs-plain colored"></i>
+      },
+      {
+        name: "Rails",
+        icon: <i class="devicon-rails-plain colored"></i>
+      },
+      {
+        name: "Firebase",
+        icon: <i class="devicon-firebase-plain colored"></i>
       },
     ],
   },
